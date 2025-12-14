@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **MVVM, Jetpack Compose etc.**
 - 💬 Ask me about **Android, Kotlin, Java, Python**
 - 📫 How to reach me **ranaaryan997@gmail.com**
-- 📄 Know about my experiences [View Resume]([https://drive.google.com/file/d/1zHrvWJNhPBR7hXEqwFY59mIAZ69zpLv1/view?usp=drive_link](https://drive.google.com/file/d/1GSjqfraGDqSzo51so7BITjL55wLVJBDc/view?usp=drive_link))
+- 📄 Know about my experiences [View Resume][(https://drive.google.com/file/d/1GSjqfraGDqSzo51so7BITjL55wLVJBDc/view?usp=drive_link))]
 
 ---
 
