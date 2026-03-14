@@ -1,66 +1,103 @@
 <h1 align="center">Hi 👋, I'm Shantanu Pundir</h1>
-<h3 align="center">💻 Java Developer | Passionate about scalable mobile solutions</h3>
-
-- 🌱 I’m currently learning **Java, SpringBoot etc.**
-- 💬 Ask me about **Android, Java, Python**
-- 📫 How to reach me **ranaaryan997@gmail.com**
-- 📄 Know about my experiences [View Resume][(https://drive.google.com/file/d/1GSjqfraGDqSzo51so7BITjL55wLVJBDc/view?usp=drive_link))]
+<h3 align="center">☕ Java Backend Developer | Building Scalable APIs & Microservices</h3>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Java Backend Development**
+- 🌱 Learning and improving skills in **Spring Boot, Microservices Architecture, REST APIs**
+- 💡 Interested in **Scalable Backend Systems & Cloud-Ready Applications**
+- 💬 Ask me about **Java, Spring Boot, REST API, Backend Development**
+- 📫 How to reach me: **ranaaryan997@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1GSjqfraGDqSzo51so7BITjL55wLVJBDc/view?usp=drive_link)
+
+---
+
+### 🚀 Backend Tech Stack
+
 <p align="left">
+
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### ⚙️ Backend Development Skills
+
+- **Java**
+- **Spring Boot**
+- **Spring MVC**
+- **Spring Data JPA**
+- **RESTful API Development**
+- **Microservices Architecture**
+- **Database Design**
+- **JWT Authentication**
+- **API Security**
+- **Docker Basics**
+- **Git & GitHub**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+
 <a href="https://www.linkedin.com/in/shantanu-pundir9/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
 <a href="https://www.instagram.com/shantanu__rana_/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
+
 <a href="https://leetcode.com/u/shantanu_pundir/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
+
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shantanupundir&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanupundir&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanupundir&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanupundir&show_icons=true&locale=en&layout=compact" alt="shantanupundir" />
-</p>
+### ⚡ Fun Fact
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanupundir&show_icons=true&locale=en" alt="shantanupundir" />
-</p>
+> I enjoy designing **clean backend architectures and scalable APIs** that power modern applications.
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanupundir&" alt="shantanupundir" />
-</p>
+---
