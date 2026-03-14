@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shantanu Pundir</h1>
-<h3 align="center">💻 Android Developer | Passionate about scalable mobile solutions</h3>
+<h3 align="center">💻 Java Developer | Passionate about scalable mobile solutions</h3>
 
-- 🌱 I’m currently learning **MVVM, Jetpack Compose etc.**
-- 💬 Ask me about **Android, Kotlin, Java, Python**
+- 🌱 I’m currently learning **Java, SpringBoot etc.**
+- 💬 Ask me about **Android, Java, Python**
 - 📫 How to reach me **ranaaryan997@gmail.com**
 - 📄 Know about my experiences [View Resume][(https://drive.google.com/file/d/1GSjqfraGDqSzo51so7BITjL55wLVJBDc/view?usp=drive_link))]
 
